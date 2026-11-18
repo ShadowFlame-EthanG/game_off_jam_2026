@@ -367,6 +367,14 @@ PrefabInstance:
       propertyPath: m_ExcludeLayers.m_Bits
       value: 358
       objectReference: {fileID: 0}
+    - target: {fileID: 3213999576018925219, guid: 9162c99b7ddbc05ac9244aa7511276f8, type: 3}
+      propertyPath: motorForce
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 3213999576018925219, guid: 9162c99b7ddbc05ac9244aa7511276f8, type: 3}
+      propertyPath: turnSmoothing
+      value: 0.8
+      objectReference: {fileID: 0}
     - target: {fileID: 3920547861313595832, guid: 9162c99b7ddbc05ac9244aa7511276f8, type: 3}
       propertyPath: m_Name
       value: Bicycle_2.0_RIg
